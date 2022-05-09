@@ -1,2 +1,2 @@
-# Introdu-o-ao-Javascript
+# Introducao-ao-Javascript
 Projetos referentes ao curso "Introdução ao Javascript" da DIO
